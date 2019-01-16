@@ -1,3 +1,5 @@
+Before using the design, you need to install Qt develop kit by yourself and load the project file in this folder. 
+
 To use the software you need to create the DSE result by your own software. Your can use your own command line in the box "Exexutable Command" and hit "Run" button. Then the software can call your comman in terminal. 
 
 After DSE please form your valid .CSV report file for the Qt software. The information should include
